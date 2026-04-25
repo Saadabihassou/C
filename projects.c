@@ -20,6 +20,12 @@ void shopping_cart() {
     printf("The total is: $%.2f", total);
 }
 
+// Madlibs game
+void madlibs() {
+    
+}
+
+
 int main () {
     shopping_cart();
     return 0;
